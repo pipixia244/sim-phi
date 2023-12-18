@@ -1,5 +1,5 @@
 # <!-- prettier-ignore -->[Phixos](https://lchz&#104;3473.github.io/sim-phi/index)
-
+ 
 ## 简介
 
 $\text{Phi\color{red}x\color{green}os}=\color{red}\xcancel{\text{\color{black}Phi{g}ros}}\text{ \color{green}Online Simulator}$
